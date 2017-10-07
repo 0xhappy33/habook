@@ -1,0 +1,69 @@
+.slide-show{
+    width: 98%;
+    height: 38%;
+    margin: auto;
+}
+
+.slide-show .row{
+    margin-top: 5px;
+}
+
+.slide-show a{
+    text-decoration: none;
+}
+
+.thumbnail .image-book{
+    width: 100%;
+    height: 100px;
+    opacity: 0.8;
+    -webkit-transition: 2s;
+    transition: 2s;
+}
+
+.thumbnail .image-book:hover{
+    opacity: 1;
+}
+
+.slide-show .title-type{
+    margin-left: 10px;
+    font-size: 24px;
+    font-family: Arial, serif;
+    font-weight: bold;
+    color: #4EC3C3;
+    text-transform: uppercase;
+}
+
+.see-more{
+    margin-top: 10px;
+}
+
+.see-more .see-another-book{
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    width: 160px;
+}
+
+.slider{
+    width: 100%;
+    height: 500px;
+}
+.slider img{
+    width: 100%;
+}
+#myCarousel{
+    height: 500px;
+}
+
+.carousel-caption h3{
+    color: #000;
+}
+
+.caption h6{
+    color: #4f4f4f;
+    margin-top: 8px;
+}
+.thumbnail:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+body{
+    margin: 0 auto;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+main, footer, header, article, section, aside{
+    display: block;
+    font-family: 'Josefin Sans', sans-serif;
+}

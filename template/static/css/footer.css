@@ -1,0 +1,28 @@
+/*footer{
+    height: 250px;
+    clear: both;
+    margin-top: 30px;
+}*/
+
+/*
+footer p{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Arial, serif;
+    padding-top: 40px;
+}
+.footer-copyright .container a{
+    font-weight: bold;
+}
+.hidden{
+    visibility: collapse;
+}
+.white-text + ul li{
+    display: inline;
+}*/
+footer.page-footer {
+    background-color: #2b3f66;
+    clear: both;
+    margin-top: 0;
+}

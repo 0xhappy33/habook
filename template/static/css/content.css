@@ -1,0 +1,51 @@
+#wrapper{
+    height: 1200px;
+}
+main{
+    margin-top: 20px;
+}
+
+aside{
+    margin-top: 34px;
+}
+    .head-side{
+        display: block;
+        float: right;
+    }
+        .head-side span{
+            text-align: center;
+        }
+    #map{
+        height: 300px;
+
+    }
+aside .type-side-menu h5{
+    text-decoration: line-through;
+}
+
+aside table{
+    display: block;
+    margin: auto;
+}
+aside table thead, aside table tbody{
+    width: 100%;
+}
+.section-search{
+    background-color: #0c527a;
+    padding: 50px;
+    margin-top: 10px;
+}
+.head-section-search{
+    text-align: center;
+    color: white;
+}
+.input-group.md-form.form-sm.form-2 input.amber-border  {
+    border: 1px solid white;
+    color: white;
+    font-size: 20px;
+}
+.input-group.md-form.form-sm.form-2 span:hover{
+    cursor: pointer;
+}
+
+

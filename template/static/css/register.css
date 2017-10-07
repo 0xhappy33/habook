@@ -1,0 +1,69 @@
+body{
+    font-family: Arial, serif;
+    /*background-image: url("https://static.pexels.com/photos/136749/pexels-photo-136749.jpeg");*/
+}
+
+#video_background {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1000;
+    overflow: hidden;
+}
+
+#wrapper{
+    width: 60%;
+    margin: auto;
+    height:500px;
+    opacity: 1;
+    z-index: -1;
+}
+
+form{
+    height: 100%;
+}
+
+h1{
+    text-align: center;
+    color: #F3EBF5;
+    padding-top: 10px;
+}
+
+.information {
+    position: relative;
+    width: 400px;
+    margin: auto auto 10px;
+}
+.information input {
+    text-indent: 30px;
+    width: 400px;
+    height: 40px;
+    margin: 0 auto;
+}
+.fa-user,.fa-phone, .fa-envelope, .fa-unlock{
+    position: absolute;
+    top: 13px;
+    left: 7px;
+    font-size: 15px;
+}
+
+.submit{
+    width: 100px;
+    height: 30px;
+    background-color: #9b59b6;
+    margin: 10px auto auto;
+}
+
+.button-submit{
+    background-color: #9b59b6;
+    width: 100px;
+    color: #eeeeee;
+    font-family: Dialog, serif;
+    font-size: 20px;
+    padding:5px;
+
+}
